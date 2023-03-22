@@ -6,7 +6,7 @@ Hi, my name is Tommy Adeniyi. I am a software developer from Toronto, Canada.
 - 🤔 I’m looking for help with design and marketing
 - 💬 Ask me about headless websites, applications to solve problems and what my current top tech stacks or open source interests are
 - 📫 How to reach me: below
-- 😄 Pronouns: He/Him/Them
+- 😄 Pronouns: He/Him/Dem
 - ⚡ Fun fact: I wrote my first page of code on an Atari Basic when I was less than 10 years old.
 - I created this profile page because its important, but you can find out more about me below.
 
